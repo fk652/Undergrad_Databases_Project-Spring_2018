@@ -1,0 +1,7 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/Fahim Khan/Documents/GitHub/Undergrad_Databases_Project-Spring_2018/usbwebserver\\php\\ext\\php_curl.dll' - %1 is not a valid Win32 application.\r\n in Unknown on line 0
+[Wed Jun 02 22:12:34.381487 2021] [mpm_winnt:notice] [pid 17172:tid 584] AH00455: Apache/2.4.29 (Win32) PHP/7.1.11 configured -- resuming normal operations
+[Wed Jun 02 22:12:34.381487 2021] [mpm_winnt:notice] [pid 17172:tid 584] AH00456: Server built: Nov  3 2017 01:01:54
+[Wed Jun 02 22:12:34.381487 2021] [core:notice] [pid 17172:tid 584] AH00094: Command line: 'C:\\Users\\Fahim Khan\\Documents\\GitHub\\Undergrad_Databases_Project-Spring_2018\\usbwebserver/apache2/bin/httpd_usbwv8.exe -d C:/Users/Fahim Khan/Documents/GitHub/Undergrad_Databases_Project-Spring_2018/usbwebserver/apache2'
+[Wed Jun 02 22:12:34.395490 2021] [mpm_winnt:notice] [pid 17172:tid 584] AH00418: Parent: Created child process 10268
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/Users/Fahim Khan/Documents/GitHub/Undergrad_Databases_Project-Spring_2018/usbwebserver\\php\\ext\\php_curl.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jun 02 22:12:35.790044 2021] [mpm_winnt:notice] [pid 10268:tid 708] AH00354: Child: Starting 64 worker threads.
